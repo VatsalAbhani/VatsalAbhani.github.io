@@ -1,9 +1,4 @@
 title: Vatsal 
 # logo: 
-show_downloads: false
-Description: About Me
-- Location: Riverside, CA
-- Email: vatsalabhani@gmail.com
-- LinkedIn: 
-- Github: 
+show_downloads: true
 theme: jekyll-theme-minimal
