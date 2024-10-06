@@ -58,8 +58,9 @@ GPA: **3.57/4.0**
 - Achieved an indexing speed of **0.54 seconds per document**, significantly improving retrieval accuracy.
 
 #### Flower Recognition System
-- Implemented a flower recognition model using web-scraped images and achieved high accuracy through image classification techniques.
-- Integrated **BERT** for efficient data retrieval.
+- Developed a **Convolutional Neural Network (CNN) model** for flower classification, achieving 89.83% training accuracy and 82.18% validation accuracy after tuning with 200 epochs.
+- Applied **data augmentation techniques** (rotation, zoom, flipping) to improve model generalization and performance.
+- Implemented the system using **TensorFlow** and **Keras** and advanced pre-processing, training, and evaluation methods.
 
 ---
 
