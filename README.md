@@ -51,6 +51,7 @@ GPA: **3.57/4.0**
 ### Projects
 
 #### Customer Churn Prediction and A/B Testing
+**[Project Link](https://www.kaggle.com/code/vatsalabhani/vatsal-bank-customer-churn-prediction)**
 - Developed a **Random Forest Classifier** achieving **86% accuracy** to predict customer churn using a dataset of 10,000 customers.
 - Performed **A/B testing** to evaluate a personalized retention strategy, resulting in an **18% reduction in churn**.
 - Created **interactive Tableau dashboards** to visualize key metrics for stakeholders.
@@ -60,6 +61,7 @@ GPA: **3.57/4.0**
 - Achieved an indexing speed of **0.54 seconds per document**, significantly improving retrieval accuracy.
 
 #### Flower Recognition System
+**[Project Link](https://www.kaggle.com/code/vatsalabhani/a201-a224-a253-flower-recognition)**
 - Developed a **Convolutional Neural Network (CNN) model** for flower classification, achieving 89.83% training accuracy and 82.18% validation accuracy after tuning with 200 epochs.
 - Applied **data augmentation techniques** (rotation, zoom, flipping) to improve model generalization and performance.
 - Implemented the system using **TensorFlow** and **Keras** and advanced pre-processing, training, and evaluation methods.
