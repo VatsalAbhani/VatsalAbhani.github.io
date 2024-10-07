@@ -4,6 +4,19 @@ Welcome to my GitHub portfolio! I am pursuing a **Master of Science in Computer 
 
 ---
 
+
+### Skills
+- **Languages**: Python, SQL, JavaScript
+- **Tools**: Tableau, Jupyter Notebook, Power BI
+- **Libraries/Frameworks**: PyTorch, Scikit-learn, LangChain, TensorFlow, Keras
+- **Certifications**: 
+  - Data Visualization (Kaggle)
+  - Python (Kaggle)
+  - Pandas (Kaggle)
+
+---
+
+
 ### About Me
 - **Location**: Riverside, CA
 - **Email**: vatsalabhani@gmail.com
@@ -22,17 +35,6 @@ GPA: **3.66/4.0**
 *NMIMS University, Mumbai, India*  
 **Jul 2018 - May 2022**  
 GPA: **3.57/4.0**
-
----
-
-### Skills
-- **Languages**: Python, SQL, JavaScript
-- **Tools**: Tableau, Jupyter Notebook, Power BI
-- **Libraries/Frameworks**: PyTorch, Scikit-learn, LangChain, TensorFlow, Keras
-- **Certifications**: 
-  - Data Visualization (Kaggle)
-  - Python (Kaggle)
-  - Pandas (Kaggle)
 
 ---
 
