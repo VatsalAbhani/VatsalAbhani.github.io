@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I am pursuing a **Master of Science in Computer 
 **Master of Science in Computer Engineering**  
 *University of California, Riverside*  
 **Sept 2023 - Dec 2024 (Expected)**  
-GPA: **3.6/4.0**
+GPA: **3.66/4.0**
 
 **Bachelor of Technology in Information Technology**  
 *NMIMS University, Mumbai, India*  
