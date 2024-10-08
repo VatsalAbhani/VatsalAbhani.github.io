@@ -57,6 +57,7 @@ GPA: **3.57/4.0**
 - Created **interactive Tableau dashboards** to visualize key metrics for stakeholders.
 
 #### Information Retrieval and Indexing
+**[Project Link](https://github.com/vidit1906/dataextraction_praw)**
 - Led a team to develop a search engine using **PRAW**, **PyLucene**, and **BERT**, processing over **2.3 million Reddit posts**.
 - Achieved an indexing speed of **0.54 seconds per document**, significantly improving retrieval accuracy.
 
