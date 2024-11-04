@@ -41,10 +41,11 @@ GPA: **3.57/4.0**
 ### Work Experience
 #### Front-End Development Intern  
 *Hashtechy Technologies, Ahmedabad, India*  
-**May 2021 – July 2021**
-- Developed dynamic websites by converting UI wireframes into functional web pages.
-- Built user interfaces using **HTML**, **CSS**, **JavaScript**, and **Figma**.
-- Ensured cross-browser compatibility and industry-standard compliance.
+**May 2021 – Oct 2021**
+- Data Collection & Cleaning: Gathered and cleaned large datasets to support project needs, ensuring high data quality for meaningful insights.
+- Dashboard Development: Created interactive dashboards in Tableau to visualize key metrics, enabling team members to monitor performance indicators and make informed decisions.
+- Data-Driven Process Improvement: Analyzed user behavior data to recommend process improvements, enhancing website performance and user experience by 15%.
+- Documentation & Reporting: Documented data analysis methodologies and produced reports summarizing findings, providing stakeholders with actionable insights.
 
 ---
 
