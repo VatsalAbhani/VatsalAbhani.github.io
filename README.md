@@ -1,6 +1,6 @@
 ### Vatsal Abhani - Portfolio
 
-Welcome to my GitHub portfolio! I am pursuing a **Master of Science in Computer Engineering** at the **University of California, Riverside**, with a deep passion for data science, machine learning, and software development. This portfolio showcases my skills, projects, and experiences.
+Welcome to my GitHub portfolio! I recently completed my **Master of Science in Computer Engineering** from the **University of California, Riverside**, with a deep passion for data science, machine learning, and software development. This portfolio showcases my skills, projects, and experiences.
 
 ---
 
@@ -28,8 +28,8 @@ Welcome to my GitHub portfolio! I am pursuing a **Master of Science in Computer 
 ### Education
 **Master of Science in Computer Engineering**  
 *University of California, Riverside*  
-**Sept 2023 - Dec 2024 (Expected)**  
-GPA: **3.66/4.0**
+**Sept 2023 - Dec 2024**  
+GPA: **3.7/4.0**
 
 **Bachelor of Technology in Information Technology**  
 *NMIMS University, Mumbai, India*  
@@ -39,7 +39,15 @@ GPA: **3.57/4.0**
 ---
 
 ### Work Experience
-#### Front-End Development Intern  
+#### Data Analyst  
+*Edicon Paper Product Pvt. Ltd., Morbi, India*  
+**May 2022 – June 2023**
+- Conducted predictive analysis using Python and SQL to forecast demand, optimizing inventory management and reducing overstock by 20%. 
+- Designed and automated Tableau dashboards to track production, sales, and sustainability KPIs, enabling data-driven decisions that improved operational efficiency by 10%. 
+- Collaborated with cross-functional teams to analyze environmental impact metrics, supporting sustainability goals and compliance with industry standards. 
+- Automated data collection and reporting processes, reducing manual effort by 25% and delivering timely insights to stakeholders. 
+
+#### Data Analysis Intern  
 *Hashtechy Technologies, Ahmedabad, India*  
 **May 2021 – Oct 2021**
 - Data Collection & Cleaning: Gathered and cleaned large datasets to support project needs, ensuring high data quality for meaningful insights.
@@ -57,6 +65,11 @@ GPA: **3.57/4.0**
 - Performed **A/B testing** to evaluate a personalized retention strategy, resulting in an **18% reduction in churn**.
 - Created **interactive Tableau dashboards** to visualize key metrics for stakeholders.
 
+#### Box Office Success Analysis
+**[Project Link](https://github.com/vidit1906/dataextraction_praw)**
+- Analyzed 45,000+ movie records by **handling missing data**, **performing correlation analysis**, and **feature engineering** (e.g., ROI, seasonal trends, and genre-specific metrics) to identify key factors influencing box office performance.
+- Developed **interactive and exploratory visualizations** using **Matplotlib** and **Seaborn** to illustrate revenue trends, director performance, and genre profitability, enabling data-driven insights for strategic decision-making. 
+
 #### Information Retrieval and Indexing
 **[Project Link](https://github.com/vidit1906/dataextraction_praw)**
 - Led a team to develop a search engine using **PRAW**, **PyLucene**, and **BERT**, processing over **2.3 million Reddit posts**.
@@ -70,10 +83,5 @@ GPA: **3.57/4.0**
 
 ---
 
-### Publications
-- **[A Comprehensive Study of Data Analytics & its Application in the Banking Sector](https://www.ijraset.com/fileserve.php?FID=35470)**
-- **[Emotion Detection Using Facial Recognition Technique](https://ijsrcseit.com/paper/CSEIT2174104.pdf)**
-
----
 
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out for collaborations or inquiries.
