@@ -66,7 +66,7 @@ GPA: **3.57/4.0**
 - Created **interactive Tableau dashboards** to visualize key metrics for stakeholders.
 
 #### Box Office Success Analysis
-**[Project Link](https://github.com/vidit1906/dataextraction_praw)**
+**[Project Link](https://github.com/VatsalAbhani/MovieBoxOffice_Analysis)**
 - Analyzed 45,000+ movie records by **handling missing data**, **performing correlation analysis**, and **feature engineering** (e.g., ROI, seasonal trends, and genre-specific metrics) to identify key factors influencing box office performance.
 - Developed **interactive and exploratory visualizations** using **Matplotlib** and **Seaborn** to illustrate revenue trends, director performance, and genre profitability, enabling data-driven insights for strategic decision-making. 
 
